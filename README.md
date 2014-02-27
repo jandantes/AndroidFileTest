@@ -1,5 +1,7 @@
 ##Android File Test App
 
+Playing around with some functionalities for poc purposes.
+
 ###Specs
 - Edit texts with save button
 - Save to csv file by date
