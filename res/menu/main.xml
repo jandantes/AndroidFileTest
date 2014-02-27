@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_viewFiles"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_view_files"
+        android:title="@string/label_action_viewFiles" />
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="101"
+        android:showAsAction="always"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+
+</menu>
