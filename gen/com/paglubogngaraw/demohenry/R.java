@@ -21,11 +21,13 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-        public static final int ic_menu_view_files=0x7f020001;
+        public static final int ic_action_av_upload=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
+        public static final int ic_menu_view_files=0x7f020002;
     }
     public static final class id {
-        public static final int action_viewFiles=0x7f09000f;
+        public static final int action_uploadFile=0x7f09000f;
+        public static final int action_viewFiles=0x7f090010;
         public static final int button_submit=0x7f090002;
         public static final int container_form=0x7f090004;
         public static final int edittext_amount=0x7f09000e;
@@ -34,7 +36,7 @@ public final class R {
         public static final int edittext_thirdPick=0x7f09000c;
         public static final int edittext_userId=0x7f090006;
         public static final int listview_files=0x7f090000;
-        public static final int menu_settings=0x7f090010;
+        public static final int menu_settings=0x7f090011;
         public static final int scrollView1=0x7f090003;
         public static final int textView1=0x7f090005;
         public static final int textView2=0x7f090007;
@@ -56,26 +58,30 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
-        public static final int hint_amount=0x7f06000e;
-        public static final int hint_first_pick=0x7f06000b;
-        public static final int hint_second_pick=0x7f06000c;
-        public static final int hint_third_pick=0x7f06000d;
-        public static final int hint_user_id=0x7f06000a;
+        public static final int hint_amount=0x7f06000f;
+        public static final int hint_first_pick=0x7f06000c;
+        public static final int hint_second_pick=0x7f06000d;
+        public static final int hint_third_pick=0x7f06000e;
+        public static final int hint_user_id=0x7f06000b;
+        public static final int label_action_uploadFile=0x7f060003;
         public static final int label_action_viewFiles=0x7f060002;
-        public static final int label_amount=0x7f060008;
-        public static final int label_button_submit=0x7f060003;
-        public static final int label_first_pick=0x7f060005;
-        public static final int label_second_pick=0x7f060006;
-        public static final int label_third_pick=0x7f060007;
-        public static final int label_user_id=0x7f060004;
-        public static final int message_sent=0x7f060009;
-        public static final int pref_server=0x7f060013;
-        public static final int pref_server_path=0x7f060014;
-        public static final int pref_server_path_summary=0x7f060015;
-        public static final int title_activity_files=0x7f060010;
-        public static final int title_activity_load_file=0x7f060011;
-        public static final int title_activity_main=0x7f06000f;
-        public static final int title_activity_settings=0x7f060012;
+        public static final int label_amount=0x7f060009;
+        public static final int label_button_submit=0x7f060004;
+        public static final int label_first_pick=0x7f060006;
+        public static final int label_second_pick=0x7f060007;
+        public static final int label_third_pick=0x7f060008;
+        public static final int label_user_id=0x7f060005;
+        public static final int message_sent=0x7f06000a;
+        public static final int pref_agent=0x7f060017;
+        public static final int pref_agent_id=0x7f060018;
+        public static final int pref_agent_summary=0x7f060019;
+        public static final int pref_server=0x7f060014;
+        public static final int pref_server_path=0x7f060015;
+        public static final int pref_server_path_summary=0x7f060016;
+        public static final int title_activity_files=0x7f060011;
+        public static final int title_activity_load_file=0x7f060012;
+        public static final int title_activity_main=0x7f060010;
+        public static final int title_activity_settings=0x7f060013;
     }
     public static final class style {
         /** 

@@ -5,5 +5,10 @@
                 android:title="@string/pref_server_path"
                 android:summary="@string/pref_server_path_summary"
                 android:key="prefServerPath"/>
+     
+     <EditTextPreference
+                android:title="@string/pref_agent_id"
+                android:summary="@string/pref_agent_summary"
+                android:key="prefAgentId"/>
  
 </PreferenceScreen>

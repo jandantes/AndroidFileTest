@@ -5,6 +5,7 @@
     <string name="action_settings">Settings</string>   
     
     <string name="label_action_viewFiles">View Files</string>
+    <string name="label_action_uploadFile">Upload File</string>
     <string name="label_button_submit">Submit</string>
     <string name="label_user_id">USER ID</string>
     <string name="label_first_pick">FIRST PICK</string>
@@ -28,4 +29,8 @@
     <string name="pref_server">Configure Server</string>
     <string name="pref_server_path">Server URL</string>
     <string name="pref_server_path_summary">Configure web service url</string>
+    
+    <string name="pref_agent">Configure Agent</string>
+    <string name="pref_agent_id">Agent ID</string>
+    <string name="pref_agent_summary">Add agent Id</string>
 </resources>
