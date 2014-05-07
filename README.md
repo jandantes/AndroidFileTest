@@ -1,10 +1,4 @@
-##Android File Test App
+##Betting App
 
-Playing around with some functionalities for poc purposes.
+Betting app for proof-of-concept.
 
-###Specs
-- Edit texts with save button
-- Save to csv file by date
-- simple file explorer to view file content
-- overwrite same file if new texts were entered on the same date
-- settings for web server path for future upload-to-server feature
